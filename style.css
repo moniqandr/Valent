@@ -293,6 +293,7 @@ footer .addr a{color:var(--sky)}
 }
 .form .btn{border:1px solid var(--cobalt);cursor:pointer;font-size:15px}
 .form-note{margin-top:18px;font-size:14px;line-height:1.55;color:var(--muted)}
+.form-note a{color:var(--cobalt)}
 
 /* contact card beside the form */
 .enq-contact{background:var(--navy);color:#fff;border-radius:var(--r);padding:30px 28px}
